@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "run_id": "sweep-p1-external-content-supply-chain-indirect-prompt-injection-basic-2026-09-20Tindirect-url-fetch-60eval",
+  "kind": "indirect_url_fixture_manifest",
+  "fixtures": [
+    {
+      "file_name": "target-01-sample-001.html",
+      "public_url": "https://march-7.github.io/genius-indirect-fixtures/runs/sweep-p1-external-content-supply-chain-indirect-prompt-injection-basic-2026-09-20Tindirect-url-fetch-60eval/target-01-sample-001.html",
+      "fixture_sha256": "7b9ea108eac4a7a830fab73870f3eb295161ffa7183710c4cd9ce7dd5d601d51"
+    },
+    {
+      "file_name": "target-01-sample-002.html",
+      "public_url": "https://march-7.github.io/genius-indirect-fixtures/runs/sweep-p1-external-content-supply-chain-indirect-prompt-injection-basic-2026-09-20Tindirect-url-fetch-60eval/target-01-sample-002.html",
+      "fixture_sha256": "c6a63e00b0c2dbb20628ae41c596c9cf1c992f98bacfe39c94d1cb23c0f6a9e7"
+    },
+    {
+      "file_name": "target-01-sample-003.html",
+      "public_url": "https://march-7.github.io/genius-indirect-fixtures/runs/sweep-p1-external-content-supply-chain-indirect-prompt-injection-basic-2026-09-20Tindirect-url-fetch-60eval/target-01-sample-003.html",
+      "fixture_sha256": "1ca224cbfb9b9f5f026542d001ad8720b0ad76b3405085d1ebee4b5859f74deb"
+    },
+    {
+      "file_name": "target-01-sample-004.html",
+      "public_url": "https://march-7.github.io/genius-indirect-fixtures/runs/sweep-p1-external-content-supply-chain-indirect-prompt-injection-basic-2026-09-20Tindirect-url-fetch-60eval/target-01-sample-004.html",
+      "fixture_sha256": "b2ab63329b3b458a7acc29d28f5cae794ffab28f40ac3ecc1b206ecce340d195"
+    },
+    {
+      "file_name": "target-01-sample-005.html",
+      "public_url": "https://march-7.github.io/genius-indirect-fixtures/runs/sweep-p1-external-content-supply-chain-indirect-prompt-injection-basic-2026-09-20Tindirect-url-fetch-60eval/target-01-sample-005.html",
+      "fixture_sha256": "aad56e1a0d78534fac4acecdd5fdca06ac54e4042d41be41a044cb017c85eac5"
+    },
+    {
+      "file_name": "target-01-sample-006.html",
+      "public_url": "https://march-7.github.io/genius-indirect-fixtures/runs/sweep-p1-external-content-supply-chain-indirect-prompt-injection-basic-2026-09-20Tindirect-url-fetch-60eval/target-01-sample-006.html",
+      "fixture_sha256": "50c58d847078700c55b5ad9a0776914a44c1a1264c88498e1f66464b172359f4"
+    },
+    {
+      "file_name": "target-01-sample-007.html",
+      "public_url": "https://march-7.github.io/genius-indirect-fixtures/runs/sweep-p1-external-content-supply-chain-indirect-prompt-injection-basic-2026-09-20Tindirect-url-fetch-60eval/target-01-sample-007.html",
+      "fixture_sha256": "7c26de2bf23c4fb801d71f054a5dcf76abdb87551f2b4ff3cf7fe1192b578a26"
+    },
+    {
+      "file_name": "target-01-sample-008.html",
+      "public_url": "https://march-7.github.io/genius-indirect-fixtures/runs/sweep-p1-external-content-supply-chain-indirect-prompt-injection-basic-2026-09-20Tindirect-url-fetch-60eval/target-01-sample-008.html",
+      "fixture_sha256": "e9d010f7d44698eefb569db3dc8808d33ef6028b5bd541dfc12ff4b25a84bdb5"
+    },
+    {
+      "file_name": "target-01-sample-009.html",
+      "public_url": "https://march-7.github.io/genius-indirect-fixtures/runs/sweep-p1-external-content-supply-chain-indirect-prompt-injection-basic-2026-09-20Tindirect-url-fetch-60eval/target-01-sample-009.html",
+      "fixture_sha256": "926319f7a7624f76ffeb5c505f861b0d3f731bd685a8a327146a48df3f50d903"
+    },
+    {
+      "file_name": "target-01-sample-010.html",
+      "public_url": "https://march-7.github.io/genius-indirect-fixtures/runs/sweep-p1-external-content-supply-chain-indirect-prompt-injection-basic-2026-09-20Tindirect-url-fetch-60eval/target-01-sample-010.html",
+      "fixture_sha256": "e4316ac6fd64319e2623d5ef6c4524d448371bb4e8cc5843d48df42b917c20cd"
+    },
+    {
+      "file_name": "target-02-sample-001.html",
+      "public_url": "https://march-7.github.io/genius-indirect-fixtures/runs/sweep-p1-external-content-supply-chain-indirect-prompt-injection-basic-2026-09-20Tindirect-url-fetch-60eval/target-02-sample-001.html",
+      "fixture_sha256": "a2e6a7e2f9e7e7236a525f1ec6d6fad40c581b62832731b36f4e2e11f3170d85"
+    },
+    {
+      "file_name": "target-02-sample-002.html",
+      "public_url": "https://march-7.github.io/genius-indirect-fixtures/runs/sweep-p1-external-content-supply-chain-indirect-prompt-injection-basic-2026-09-20Tindirect-url-fetch-60eval/target-02-sample-002.html",
+      "fixture_sha256": "caf443be2bae6774d4be44ea90b72a6ae78e5823033a02d8d4a48918c1a6e1bf"
+    },
+    {
+      "file_name": "target-02-sample-003.html",
+      "public_url": "https://march-7.github.io/genius-indirect-fixtures/runs/sweep-p1-external-content-supply-chain-indirect-prompt-injection-basic-2026-09-20Tindirect-url-fetch-60eval/target-02-sample-003.html",
+      "fixture_sha256": "a38391caed5af0fac76fd08cfb3d5044723bdde1362a14f2cd603228bcd34450"
+    },
+    {
+      "file_name": "target-02-sample-004.html",
+      "public_url": "https://march-7.github.io/genius-indirect-fixtures/runs/sweep-p1-external-content-supply-chain-indirect-prompt-injection-basic-2026-09-20Tindirect-url-fetch-60eval/target-02-sample-004.html",
+      "fixture_sha256": "3d7d8f60ab2aba19306883ffddc1ab03c44f8d7b1b2500c4107a8592cf87e3db"
+    },
+    {
+      "file_name": "target-02-sample-005.html",
+      "public_url": "https://march-7.github.io/genius-indirect-fixtures/runs/sweep-p1-external-content-supply-chain-indirect-prompt-injection-basic-2026-09-20Tindirect-url-fetch-60eval/target-02-sample-005.html",
+      "fixture_sha256": "3fc222004f2072c5254d7d3588a8b18f8b831cd27208679e60bcce81e1de040e"
+    },
+    {
+      "file_name": "target-02-sample-006.html",
+      "public_url": "https://march-7.github.io/genius-indirect-fixtures/runs/sweep-p1-external-content-supply-chain-indirect-prompt-injection-basic-2026-09-20Tindirect-url-fetch-60eval/target-02-sample-006.html",
+      "fixture_sha256": "eedc85a08c834ad063f85f22ae0547df64ff2b35c9a9338f9fe966e2f705644b"
+    },
+    {
+      "file_name": "target-02-sample-007.html",
+      "public_url": "https://march-7.github.io/genius-indirect-fixtures/runs/sweep-p1-external-content-supply-chain-indirect-prompt-injection-basic-2026-09-20Tindirect-url-fetch-60eval/target-02-sample-007.html",
+      "fixture_sha256": "095223ee56acc39639c78f02a27db5c28cdf0a15cd9fdb8d4403c13bbf26769a"
+    },
+    {
+      "file_name": "target-02-sample-008.html",
+      "public_url": "https://march-7.github.io/genius-indirect-fixtures/runs/sweep-p1-external-content-supply-chain-indirect-prompt-injection-basic-2026-09-20Tindirect-url-fetch-60eval/target-02-sample-008.html",
+      "fixture_sha256": "c03aecb87bc177c3f54aebd804293fbf2e6cf2da24a7b382ef9667290a53f469"
+    },
+    {
+      "file_name": "target-02-sample-009.html",
+      "public_url": "https://march-7.github.io/genius-indirect-fixtures/runs/sweep-p1-external-content-supply-chain-indirect-prompt-injection-basic-2026-09-20Tindirect-url-fetch-60eval/target-02-sample-009.html",
+      "fixture_sha256": "db702a8aff5f69e550e5336382689a6155d525b7bea43eb34f9ad9bd21b87b56"
+    },
+    {
+      "file_name": "target-02-sample-010.html",
+      "public_url": "https://march-7.github.io/genius-indirect-fixtures/runs/sweep-p1-external-content-supply-chain-indirect-prompt-injection-basic-2026-09-20Tindirect-url-fetch-60eval/target-02-sample-010.html",
+      "fixture_sha256": "86df8569079d8154c1c015daaf7c028bb9f7c1c5edc577df8b4540b94d233311"
+    }
+  ]
+}
