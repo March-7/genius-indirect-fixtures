@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "run_id": "url-fetch-scaffold-smoke-20260920T121540Z",
+  "kind": "indirect_url_fixture_manifest",
+  "fixtures": [
+    {
+      "file_name": "target-01-sample-001.html",
+      "public_url": "https://march-7.github.io/genius-indirect-fixtures/runs/url-fetch-scaffold-smoke-20260920T121540Z/target-01-sample-001.html",
+      "fixture_sha256": "97ae4c2ce70586f5e070367c8762855f56060a627749e1688da7baa88f43073f"
+    }
+  ]
+}
