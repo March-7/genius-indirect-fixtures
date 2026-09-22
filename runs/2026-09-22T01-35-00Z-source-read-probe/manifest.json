@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "run_id": "2026-09-22T01-35-00Z-source-read-probe",
+  "kind": "indirect_url_fixture_manifest",
+  "fixtures": [
+    {
+      "file_name": "target-01-sample-001.html",
+      "public_url": "https://march-7.github.io/genius-indirect-fixtures/runs/2026-09-22T01-35-00Z-source-read-probe/target-01-sample-001.html",
+      "fixture_sha256": "f914c93c651a5f3ff89d364af8483b2a9bc2d71230b51c66e65d991f84f0211d"
+    },
+    {
+      "file_name": "target-02-sample-001.html",
+      "public_url": "https://march-7.github.io/genius-indirect-fixtures/runs/2026-09-22T01-35-00Z-source-read-probe/target-02-sample-001.html",
+      "fixture_sha256": "02d774bf7a60d402e8b450666a57dc7af48c9a162708e651863220b67d1e0eb1"
+    }
+  ]
+}
